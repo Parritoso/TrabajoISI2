@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Contenido/Pelicula.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Starflix.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Decorator_Restriccion/RestriccionFactory.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/suscriptores/SuscriptorFactory.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/ConsoleControler.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/client/util/PanelGlowingGradient.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/client/Pantalla.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/client/Ventana.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/suscriptores/SuscriptorPremium.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Decorator_Restriccion/RestriccionNormal.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/client/Fachada.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/suscriptores/SuscriptorNormal.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/suscriptores/ISuscriptor.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/Persona.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/suscriptores/SuscriptorUniversal.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Decorator_Restriccion/RestriccionUniversal.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/TrabajoISI2.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/suscriptores/Suscriptor.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/personas/IPersona.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/EstrategiaNotificacion/EmailStrategy.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Decorator_Restriccion/SuscriptionDecorator.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Contenido/Serie.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Contenido/IContenido.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/Logic/Decorator_Restriccion/RestriccionPremium.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/PatronObservador/ISubject.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/client/util/PanelGlowingGradient1.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/client/util/ShadowRenderer.java</file>
+            <file>file:/C:/Users/Parri/Desktop/fabric%20mod/TrabajoISI2_gabi/TrabajoISI2/src/trabajoisi2/client/Pantalla_2.java</file>
+        </group>
+    </open-files>
+</project-private>
